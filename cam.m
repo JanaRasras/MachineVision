@@ -1,6 +1,6 @@
 %
 %   **ELG 5163**: Assignment 1 - Camera Simulator
-%   Jana Rusrus [#300205310]
+%   Jana Rusrus [#*************]
 %
 %   Elapsed time is 23.994330 seconds.
 %
